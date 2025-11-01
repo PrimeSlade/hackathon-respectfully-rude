@@ -148,7 +148,15 @@ hackathon-respectfully-rude/
 
 ## Team
 
-Led a team of three developers in this hackathon project.
+### Contributors
+
+- [Sai Zayar Hein](https://github.com/PrimeSlade)
+- [Albert Zaw Sam](https://github.com/cypherbert)
+- [Khin Nadi Ko](https://github.com/khinnadiko)
+
+### Mentor
+
+- [Kaung Hset Hein](https://github.com/PhilixTheExplorer)
 
 ## License
 

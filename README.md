@@ -103,7 +103,7 @@ touch .env
 Add the following to `.env`:
 
 ```env
-VITE_API_URL="http://localhost:3000"
+VITE_URL="http://localhost:3000"
 ```
 
 ```bash
